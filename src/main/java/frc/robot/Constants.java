@@ -77,7 +77,7 @@ public class Constants {
         // Change these!
 
         // measured 3/21/23
-        public static final double kTrackWidth = Units.inchesToMeters(13.3);
+        public static final double kTrackWidth = Units.inchesToMeters(21.5);
         // Distance between centers of right and left wheels on robot
         // measured 3/21/23
         public static final double kWheelBase = Units.inchesToMeters(23.5);
